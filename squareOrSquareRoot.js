@@ -1,0 +1,18 @@
+// Task:
+
+/* Write a method, that will get an integer array as a parameter and process every number from this array.
+
+Return a new array by processing every number of the input array like this:
+
+If the number has an integer square root, take this, otherwise square the number.
+
+For example:
+[4,3,9,7,2,1] -> [2,9,3,49,4,1]
+
+Note: The input array will always contain only positive numbers, and will never be empty or null. */
+
+// Solution:
+
+function squareOrSquareRoot(array) {
+  return array.map((num) => Number.isInteger(Math.sqrt(num)) ? Math.sqrt(num) : Math.pow(num,2));  
+}
