@@ -21,4 +21,4 @@ function howMuchILoveYou(nbPetals) {
     const statements = ['I love you', 'a little', 'a lot', 'passionately', 'madly', 'not at all'];
     const i = (nbPetals - 1) % statements.length;
     return statements[i];
-  }
+}
