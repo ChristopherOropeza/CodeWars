@@ -8,6 +8,6 @@ Looking for more, loop-restrained fun? Check out the other kata in the series: *
 
 // Solution:
 
-function check(a,x){
+function check(a,x) {
     return a.includes(x) ? true : false;
 git}
