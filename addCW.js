@@ -11,4 +11,4 @@ const addCW = (el) => {
         websites.push(el);
     }
     return websites;
-}
+};
