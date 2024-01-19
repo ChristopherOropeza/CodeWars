@@ -13,6 +13,6 @@ The test cases contain numbers only by mistake. */
 
 // Solution:
 
-function correct(string) {
+function correctTheString(string) {
 	return string.replace(/5/g, 'S').replace(/0/g, 'O').replace(/1/g, 'I');
 }
