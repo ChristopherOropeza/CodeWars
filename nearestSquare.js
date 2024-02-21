@@ -15,5 +15,5 @@ function nearestSquare(n){
 // Another solution:
 
 function nearestSq(n){
-    return Math.pow(Math.round(Math.sqrt(n)), 2);
+    return Math.round(Math.sqrt(n)) ** 2;
 }
