@@ -17,3 +17,8 @@ function nearestSquare(n){
 function nearestSq(n){
     return Math.round(Math.sqrt(n)) ** 2;
 }
+
+// Another solution:
+function nearestSq(n){
+    return Math.round(n ** 0.5) ** 2;
+}
