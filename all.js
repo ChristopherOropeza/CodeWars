@@ -7,7 +7,7 @@ and returns true if the function in the params returns true for every element in
 
 // Solution:
 
-function all(arr,fun){
-  return arr.every(fun);
+function all(arr, func){
+  return arr.every(func);
 }
 
