@@ -8,7 +8,7 @@ The function receives one parameter called "health", which will always be a whol
 
 // Solution:
 
-function checkAlive (health) {
+function checkAlive(health) {
   if (health <= 0) {
     return false;
   } else {
