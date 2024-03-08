@@ -10,7 +10,7 @@ Examples(Input1, Input2 --> Output):
 
 // Solution:
 
-const rps = (p1, p2) => {
+const RockPaperScissors = (p1, p2) => {
     const matchups = {
         rock: "scissors",
         scissors: "paper",
