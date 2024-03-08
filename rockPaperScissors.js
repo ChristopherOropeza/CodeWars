@@ -1,6 +1,6 @@
 // Problem:
 
-/* Let's play! You have to return which player won! In case of a draw return Draw!.
+/* Let's play rock, paper, scissors! You have to return which player won! In case of a draw, return Draw!.
 
 Examples(Input1, Input2 --> Output):
 
@@ -10,7 +10,7 @@ Examples(Input1, Input2 --> Output):
 
 // Solution:
 
-const RockPaperScissors = (p1, p2) => {
+const rockPaperScissors = (p1, p2) => {
     const matchups = {
         rock: "scissors",
         scissors: "paper",
