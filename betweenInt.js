@@ -10,7 +10,7 @@ b = 4
 
 // Solution:
 
-function between(a, b) {
+function betweenInt(a, b) {
   let arr = [];
   for (let i = a; i <= b; i++) {
     arr.push(i);
