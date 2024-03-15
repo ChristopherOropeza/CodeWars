@@ -8,4 +8,4 @@ The array `a` can contain numbers or strings. The value `x` can be either. Retur
 
 function check(a,x) {
     return a.includes(x) ? true : false;
-git}
+}
