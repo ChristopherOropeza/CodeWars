@@ -21,6 +21,6 @@ our team always plays 10 matches in the championship
 
 // Solution:
 
-function points(games) {
+function pointsInGames(games) {
   return games.map(match => match.split(':').map(Number)).reduce((acc,[x,y]) => acc + (x>y ? 3 : x===y ? 1 : 0),0);
 }
