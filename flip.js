@@ -6,7 +6,7 @@ There are some columns of toy cubes in the box arranged in a line. The i-th colu
 
 // Solution:
 
-const flip = (d, a) => {
+const flipGravity = (d, a) => {
     if (d === 'R') {
       a.sort((a, b) => a - b);
     } else if (d === 'L') {
