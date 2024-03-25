@@ -16,5 +16,5 @@ function joinStrings(string1, string2){
   // In case any of the arguments is a number
   string1.toString;
   string2.toString;
-  return `${string1} ${string2};
+  return `${string1} ${string2}`;
 }
