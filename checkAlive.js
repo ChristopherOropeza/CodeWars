@@ -1,6 +1,6 @@
 // Task:
 
-/* While making a game you decided to create a function to check if the user is still alive called checkIfAlive. Unfortunately, Greg made some errors while creating the function.
+/* While making a game you decided to create a function to check if the user is still alive called checkIfAlive. Unfortunately, some errors were made while creating the function.
 
 The function checkIfAlive should return true if the player's health is greater than 0 or false if it is 0 or below.
 
