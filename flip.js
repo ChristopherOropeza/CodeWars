@@ -12,5 +12,5 @@ const flipGravity = (d, a) => {
     } else if (d === 'L') {
       a.sort((a, b) => b - a);
     }
-      return a; 
+    return a; 
 }
