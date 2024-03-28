@@ -19,4 +19,4 @@ Note that all the strings will be in the same case as those provided, and some e
 function gooseFilter (birds) {
   let geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
   return birds.filter(bird => !geese.includes(bird));
-};
+}
