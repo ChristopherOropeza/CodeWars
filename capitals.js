@@ -1,6 +1,6 @@
 // Problem:
 
-/* Write a function that takes a single string (word) as argument. The function must return an ordered list containing the indices of all capital letters in the string.
+/* Write a function that takes a single string (word) as an argument. The function must return an ordered list containing the indices of all capital letters in the string.
 
 Example (Input --> Output):
 
