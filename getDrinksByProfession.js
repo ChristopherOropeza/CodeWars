@@ -28,4 +28,4 @@ function getDrinkByProfession(param){
     
     const equivalent = param.toLowerCase();
     return drinkMap[equivalent] || "Beer";
-  }
+}
