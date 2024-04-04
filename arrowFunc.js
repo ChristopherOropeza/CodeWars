@@ -9,6 +9,6 @@ C# => Tools.FromCharCode(97) // a */
 
 // Solution:
 
-var arrowFunc = function(arr) {
+let arrowFunc = function(arr) {
     return arr.map(n => String.fromCharCode(n)).join('');
 }
