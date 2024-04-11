@@ -10,6 +10,7 @@ Input	             Output
 "Politician"	     "Your tax dollars"
 "Rapper"	         "Cristal"
 anything else	     "Beer"
+
 Note: Anything else is the default case. If the input to the function is not any of the values in the table, then the return value should be "Beer".
 
 Make sure you cover the cases where certain words do not show up with correct capitalization. For example, the input "pOLitiCIaN" should still return "Your tax dollars". */
