@@ -8,6 +8,6 @@ Example (Input --> Output):
 
 // Solution:
 
-function capitalsIndices(word) {
+function capsIndices(word) {
   return word.split('').reduce((indices,char,i) => char === char.toUpperCase() ? [...indices,i] : indices,[]);
 }
