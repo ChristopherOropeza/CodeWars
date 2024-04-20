@@ -5,7 +5,7 @@
 You need to consider the following ratings:
 
 Terrible: tip 0%
-Poor: 5% tip
+Poor: tip 5%
 Good: 10% tip
 Great: 15% tip
 Excellent: 20% tip
