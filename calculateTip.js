@@ -6,7 +6,7 @@ You need to consider the following ratings:
 
 Terrible: tip 0%
 Poor: tip 5%
-Good: 10% tip
+Good: tip 10%
 Great: 15% tip
 Excellent: 20% tip
 The rating is case insensitive (so "great" = "GREAT"). If an unrecognised rating is received, then you need to return:
