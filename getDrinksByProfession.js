@@ -2,7 +2,7 @@
 
 /* Complete the function that receives as input a string, and produces outputs according to the following table:
 
-Input	             Output
+Input:	             Output:
 "Jabroni"	         "Patron Tequila"
 "School Counselor"	 "Anything with Alcohol"
 "Programmer"	     "Hipster Craft Beer"
