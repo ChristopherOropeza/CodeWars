@@ -4,7 +4,7 @@
 
 The function checkIfAlive should return true if the player's health is greater than 0 or false if it is 0 or below.
 
-The function receives one parameter called `health`, which will always be a whole number between -10 and 10. */
+The function receives a parameter called `health`, which will always be a whole number between -10 and 10. */
 
 // Solution:
 
