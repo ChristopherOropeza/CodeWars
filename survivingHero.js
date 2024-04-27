@@ -6,7 +6,7 @@ Return true if yes, false otherwise. */
 
 // Solution:
 
-function willHeroSurvive(bullets, dragons){
+function survivingHero(bullets, dragons){
   if (bullets >= dragons * 2) {
     return true;
   } else {
