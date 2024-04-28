@@ -8,7 +8,7 @@ Terrible: tip 0%
 Poor: tip 5%
 Good: tip 10%
 Great: tip 15%
-Excellent: 20% tip
+Excellent: tip 20%
 The rating is case insensitive (so "great" = "GREAT"). If an unrecognised rating is received, then you need to return:
 "Rating not recognised"
 Always round up the tip. */
