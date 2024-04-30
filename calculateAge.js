@@ -20,4 +20,4 @@ function calculateAge(birthYear, countYears) {
     } else {
       return `You will be born in ${Math.abs(age)} year${Math.abs(age) !== 1 ? 's' : ''}.`;
     }
-  }
+}
