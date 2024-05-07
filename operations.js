@@ -6,7 +6,7 @@ Please use the following function names:
 
 addition = add
 
-multiply = multiply
+multiply = mul
 
 division = divide (both integer and float divisions are accepted)
 
