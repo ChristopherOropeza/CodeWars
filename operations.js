@@ -8,7 +8,7 @@ addition = add
 
 multiply = mul
 
-division = divide (both integer and float divisions are accepted)
+division = div (both integer and float divisions are accepted)
 
 modulus = mod
 
