@@ -12,7 +12,7 @@ division = div (both integer and float divisions are accepted)
 
 modulus = mod
 
-exponential = exponent
+exponential = exp
 
 subtraction = subt
 
