@@ -14,7 +14,7 @@ modulus = mod
 
 exponential = exp
 
-subtraction = subt
+subtraction = sub
 
 Note: All math operations will be: a (operation) b */
 
