@@ -10,5 +10,5 @@ Your harried co-workers are looking to you for a solution to take this garbled t
 // Solution:
 
 function stringClean(s){
-  return s.split('').map((char) => char < '0' || char > '9' ? char : '').join('');
+  return s.split('').filter((n) => n != parseInt(n)).join('');
 }
