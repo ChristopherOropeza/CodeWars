@@ -12,3 +12,8 @@ Your harried co-workers are looking to you for a solution to take this garbled t
 function stringClean(s){
   return s.split('').filter((n) => n != parseInt(n)).join('');
 }
+
+// Other solution:
+function stringClean(s){
+  return s.replace(/\d/g, "");
+}
