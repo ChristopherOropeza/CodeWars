@@ -13,7 +13,20 @@ function stringClean(s){
   return s.split('').filter((n) => n != parseInt(n)).join('');
 }
 
-// Other solution:
+// Other solutions:
 function stringClean(s){
   return s.replace(/\d/g, "");
+}
+
+function stringClean(s){
+  let result = '';
+
+  for (let i = 0; i < input.length; i++) {
+    let char = input[i];
+    if (char < '0' || char > '9') {
+      result += char;
+    }
+  }
+
+  return result;
 }
