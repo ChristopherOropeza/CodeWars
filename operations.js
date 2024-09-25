@@ -20,7 +20,7 @@ Note: All math operations will be: a (operation) b */
 
 // Solution:
 
-function add(a,b) {
+function add(a, b) {
     return a + b;
 }
 
