@@ -8,6 +8,6 @@ Note: You can expect all inputs to be the same length. */
 
 // Solution:
 
-function tripleTrouble(one, two, three){
-  return [...one].map((_, i) => one[i] + two[i] + three[i]).join('');
+function tripleTrouble(one, two, three) ]{
+  return [...one].map( (_, i) => one[i] + two[i] + three[i] ).join('');
 }
