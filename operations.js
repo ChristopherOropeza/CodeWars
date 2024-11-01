@@ -22,7 +22,7 @@ Note: All math operations will be: a (operation) b */
 
 function add(a,b){
     return a + b;
-}
+};
 
 function div(a,b){
     return a / b;
