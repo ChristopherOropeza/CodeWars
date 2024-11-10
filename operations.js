@@ -38,7 +38,7 @@ function mod(a,b){
    
 function exponent(a,b){
     return a ** b;
-};
+}
     
 function subt(a,b){
     return a - b;
