@@ -34,7 +34,7 @@ function multiply(a,b){
 
 function mod(a,b){
     return a % b;
-}
+};
    
 function exponent(a,b){
     return a ** b;
