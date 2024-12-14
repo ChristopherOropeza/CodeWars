@@ -2,4 +2,4 @@
 
 function aardvarkFinder(ants,holes) {
     return holes*ants;
-};
+}
